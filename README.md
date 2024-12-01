@@ -141,4 +141,4 @@ This project is inspired by real-world financial forecasting challenges. Special
 
 ## Author
 **Your Name**  
-[Your GitHub Profile](https://github.com/your-username)
+[Your GitHub Profile](https://github.com/TejasUpadhyayy)
